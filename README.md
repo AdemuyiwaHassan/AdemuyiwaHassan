@@ -5,7 +5,7 @@
     <a href="https://github.com/AdemuyiwaHassan/AdemuyiwaHassan/graphs/contributors"><img src="https://img.shields.io/github/contributors/AdemuyiwaHassan/AdemuyiwaHassan?color=blue"></a>
     <a href="https://github.com/AdemuyiwaHassan/AdemuyiwaHassan/stargazers"><img src="https://img.shields.io/github/stars/AdemuyiwaHassan/AdemuyiwaHassan.svg?logo=github"></a>
     <a href="https://github.com/AdemuyiwaHassan/AdemuyiwaHassan/network/members"><img src="https://img.shields.io/github/forks/AdemuyiwaHassan/AdemuyiwaHassan.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/AdemuyiwaHassan?page_id=AdemuyiwaHassan.AdemuyiwaHassan" alt="visitors"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AdemuyiwaHassan.AdemuyiwaHassan" alt="visitors"/>
 </p>
 
 
