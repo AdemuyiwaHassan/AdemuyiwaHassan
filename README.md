@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,typescript,mongodb,postgres,git,github,c,vscode,html,css"/>
 </a>
 </div>
-
+<hr/>
 <!-- contribution -->
 <h2 align="center"> 🐍Contributions 🐍</h2>
 
