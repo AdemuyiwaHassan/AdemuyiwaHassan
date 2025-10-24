@@ -27,7 +27,7 @@
 </div>
 <h2 align="center">Languages-Frameworks-Tools</h2> <br/>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,typescript,mongodb,postgress,git,github,c,vscode,html,css"/>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,typescript,mongodb,postgres,git,github,c,vscode,html,css"/>
 </a>
 
 
