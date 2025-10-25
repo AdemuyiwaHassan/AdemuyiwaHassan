@@ -44,6 +44,14 @@
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/Ademuyiwahassan/Ademuyiwahassan/output/github-contribution-grid-snake.svg)
 
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=AdemuyiwaHassan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemuyiwaHassan&theme=radical&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemuyiwaHassan"></img>
+
 
 <!--
 **AdemuyiwaHassan/AdemuyiwaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
