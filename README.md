@@ -32,7 +32,8 @@
     
 
 <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,typescript,mongodb,postgres,git,github,c,vscode,html,css"/>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,typescript,jest,mongodb,postgres,git"/>
+     <img src="https://skillicons.dev/icons?i=github,c,vscode,html,css,azure,docker,wordpress"/>
 </a>
 </div>
 <hr/>
@@ -47,7 +48,7 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=AdemuyiwaHassan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemuyiwaHassan&theme=radical&layout=compact) |
+| ![my github stats](https://github-readme-stats.vercel.app/api?username=AdemuyiwaHassan&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemuyiwaHassan&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemuyiwaHassan"></img>
